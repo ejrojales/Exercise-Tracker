@@ -1,0 +1,64 @@
+body {
+  background-color: beige;
+  color: #04AA6D;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 10px 20px 30px 40px;
+  padding: 20px 20px 20px 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+tr th {
+  border: 1px solid;
+  border-color: black;
+  color: olivedrab;
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+}
+
+tr td {
+  border: 1px solid;
+  border-color: black;
+  color: olive;
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+}
+
+input,
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+  color: rebeccapurple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  color: rebeccapurple;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
