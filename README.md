@@ -8,6 +8,8 @@ This project uses the MERN stack to write a Single Page Application (SPA) that t
 ![Screenshot (16)](https://user-images.githubusercontent.com/81449170/187880055-6fb11470-4bc2-412d-a1a2-4eb115c27a03.png)
 
 ## Adding an Exercise
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/81449170/187882054-c4bd4530-9f93-4328-bda1-57d0b49a95a0.gif)
+
 
 
 ## Editing and Deleting an Exercise
