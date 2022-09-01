@@ -1,3 +1,2 @@
-# Exercise-Tracker
+# CS 290 Web Development Portfolio-Project
 
-CS 290 Web Development Portfolio Project
